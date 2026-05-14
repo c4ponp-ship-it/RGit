@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-14 14:12 (IR Time)
+- 🎬 [Why Smart Architects Are Switching to Claude AI in 2026 - Change The Way You Do Proposals.mp4](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/Why%20Smart%20Architects%20Are%20Switching%20to%20Claude%20AI%20in%202026%20-%20Change%20The%20Way%20You%20Do%20Proposals.mp4) `22.40 MB`
+
 ### 📅 2026-05-14 13:17 (IR Time)
 - 📥 [Hiddify-Android-arm7.z01](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/Hiddify-Android-arm7.z01) `95.00 MB`
 - 🗜️ [Hiddify-Android-arm7.zip](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/Hiddify-Android-arm7.zip) `7.04 MB`
