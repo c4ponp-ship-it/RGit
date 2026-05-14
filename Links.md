@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-14 14:19 (IR Time)
+- 🎬 [Getting Started with Rhino 3D Part 5 - Adding MATERIALS_.mp4](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/Getting%20Started%20with%20Rhino%203D%20Part%205%20-%20Adding%20MATERIALS_.mp4) `77.22 MB`
+
 ### 📅 2026-05-14 14:18 (IR Time)
 - 🎬 [Getting Started with Rhino Part 4 - Creating an EXTERIOR MODEL_.mp4](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/Getting%20Started%20with%20Rhino%20Part%204%20-%20Creating%20an%20EXTERIOR%20MODEL_.mp4) `74.10 MB`
 
