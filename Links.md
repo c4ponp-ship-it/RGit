@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-14 14:14 (IR Time)
+- 🎬 [Getting Started with Rhino Part 2 - Lines_ Faces_ and 3D Shapes_.mp4](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/Getting%20Started%20with%20Rhino%20Part%202%20-%20Lines_%20Faces_%20and%203D%20Shapes_.mp4) `62.04 MB`
+
 ### 📅 2026-05-14 14:12 (IR Time)
 - 🎬 [Why Smart Architects Are Switching to Claude AI in 2026 - Change The Way You Do Proposals.mp4](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/Why%20Smart%20Architects%20Are%20Switching%20to%20Claude%20AI%20in%202026%20-%20Change%20The%20Way%20You%20Do%20Proposals.mp4) `22.40 MB`
 
