@@ -1,5 +1,9 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-14 13:16 (IR Time)
+- 📥 [Hiddify-Android-arm64.z01](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/Hiddify-Android-arm64.z01) `95.00 MB`
+- 🗜️ [Hiddify-Android-arm64.zip](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/Hiddify-Android-arm64.zip) `18.51 MB`
+
 ### 📅 2026-05-14 12:34 (IR Time)
 - 📱 [v2rayNG_2.1.7_universal.apk](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/v2rayNG_2.1.7_universal.apk) `61.88 MB`
 
