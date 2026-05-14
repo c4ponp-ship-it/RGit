@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-14 14:16 (IR Time)
+- 🎬 [Getting Started with Rhino 8 Part 3 - Modeling a FLOOR PLAN_.mp4](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/Getting%20Started%20with%20Rhino%208%20Part%203%20-%20Modeling%20a%20FLOOR%20PLAN_.mp4) `64.29 MB`
+
 ### 📅 2026-05-14 14:14 (IR Time)
 - 🎬 [Getting Started with Rhino Part 2 - Lines_ Faces_ and 3D Shapes_.mp4](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/Getting%20Started%20with%20Rhino%20Part%202%20-%20Lines_%20Faces_%20and%203D%20Shapes_.mp4) `62.04 MB`
 
