@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-14 14:18 (IR Time)
+- 🎬 [Getting Started with Rhino Part 4 - Creating an EXTERIOR MODEL_.mp4](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/Getting%20Started%20with%20Rhino%20Part%204%20-%20Creating%20an%20EXTERIOR%20MODEL_.mp4) `74.10 MB`
+
 ### 📅 2026-05-14 14:16 (IR Time)
 - 🎬 [Getting Started with Rhino 8 Part 3 - Modeling a FLOOR PLAN_.mp4](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/Getting%20Started%20with%20Rhino%208%20Part%203%20-%20Modeling%20a%20FLOOR%20PLAN_.mp4) `64.29 MB`
 
