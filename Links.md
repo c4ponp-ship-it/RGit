@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-15 19:09 (IR Time)
+- 📱 [ShirOKhorshid-2026.05.14.apk](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/ShirOKhorshid-2026.05.14.apk) `23.93 MB`
+
 ### 📅 2026-05-15 06:18 (IR Time)
 - 📥 [2054953409342783754](https://github.com/c4ponp-ship-it/RGit/raw/main/dl/2054953409342783754) `0.25 MB`
 
